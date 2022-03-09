@@ -1,6 +1,6 @@
 # 디지털논리 실습
  - __Proteus 8.ver__
- - [__수업 자료__](https://charm-aluminum-6c2.notion.site/a27cadae315541a98eebf9d8d695b160)
+ - [__수업 자료__ - *Notion*](https://charm-aluminum-6c2.notion.site/a27cadae315541a98eebf9d8d695b160)
  - __수업 요약__
     1. 논리게이트 구현
     2. 논리게이트를 이용한 ```LED``` 제어
