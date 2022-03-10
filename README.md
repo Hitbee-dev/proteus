@@ -2,9 +2,17 @@
  - __Proteus 8.ver__
  - [__수업 자료__ - *Notion*](https://charm-aluminum-6c2.notion.site/a27cadae315541a98eebf9d8d695b160)
  - __수업 요약__
-    1. 논리게이트 구현
-    2. 논리게이트를 이용한 ```LED``` 제어
-    3. ATmega128을 이용한 ```LED``` 제어
-    4. ATmega128 + 비트이동 연산자를 이용한 ```LED``` 이동 제어
-    5. ATmega128을 이용한 ```7-Segment``` 제어
-    6. 디지털 시계 구현 Term Project
+   - __*Clear*__ | **1주차**: Proteus Set-up & 환경 설정
+   - __*Clear*__ | **2주차**: 논리게이트 구현(NOT, AND, OR, NOR 등...)
+   - **3주차**: `74ls00`을 활용한 논리게이트 구현
+   - **4주차**: 간단한 조합회로 구현
+   - **5주차**: `Flip-Flop` 응용
+   - **6주차**: `Flip-Flop` 활용 순차응용(`Counter/Timer`)
+   - **7주차**: `Timer` - `LED` 구현
+   - __*PASS*__ | **8주차**: 실습 없음(중간고사)
+   - **9주차**: ATmega128을 이용한 `LED` 제어
+   - **10주차**: ATmega128 + 비트이동 연산자를 이용한 `LED` 이동 제어
+   - **11주차**: ATmega128을 이용한 `7-Segment` 제어
+   - **12주차 ~ 14주차**: `디지털시계 p.752` Term Project
+     - `hh:mm:ss` 중 시간 하나 출력하는 방법 알려주고 과제로 결과 제출하는 방법도 고려
+   - __*PASS*__ | **15주차**: 실습 없음(기말고사)
