@@ -2,8 +2,8 @@
  - __Proteus 8.ver__
  - [__수업 자료__ - *Notion*](https://charm-aluminum-6c2.notion.site/a27cadae315541a98eebf9d8d695b160)
  - __수업 요약__
-   - __*Clear*__ | **1주차**: Proteus Set-up & 환경 설정
-   - __*Clear*__ | **2주차**: 논리게이트 구현(NOT, AND, OR, NOR 등...)
+   - ~~__*Clear*__ | **1주차**: Proteus Set-up & 환경 설정~~
+   - ~~__*Clear*__ | **2주차**: 논리게이트 구현(NOT, AND, OR, NOR 등...)~~
    - **3주차**: `74ls00`을 활용한 논리게이트 구현
    - **4주차**: 간단한 조합회로 구현
    - **5주차**: `Flip-Flop` 응용
