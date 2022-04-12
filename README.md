@@ -19,12 +19,13 @@
      - ~~__*Clear | 2분반*__~~
    - **6주차**: `RS Flip-Flop` 구현
      - ~~__*Clear | 1분반*__~~
-     - __*2분반*__
-   - **7주차**: `JK Flip-Flop`, `D Flip-Flop`, `T Flip-Flop`, `Master Slave Flip-Flop` 구현
-   - __*PASS*__ | **8주차**: 실습 없음(중간고사)
-   - **9주차**: ATmega128을 이용한 `LED` 제어
-   - **10주차**: ATmega128 + 비트이동 연산자를 이용한 `LED` 이동 제어
-   - **11주차**: ATmega128을 이용한 `7-Segment` 제어
-   - **12주차 ~ 14주차**: `디지털시계 p.752` Term Project
+     - ~~__*Clear | 2분반*__~~
+   - **7주차**: `JK Flip-Flop` 구현
+   - **8주차**: `D Flip-Flop`, `T Flip-Flop` 구현
+   - **9주차**: `Master Slave Flip-Flop` 구현
+   - __*PASS*__ | **10주차**: 실습 없음(중간고사)
+   - **11주차**: ATmega128을 이용한 `LED` 제어
+   - **12주차**: ATmega128을 이용한 `7-Segment` 제어
+   - **13 ~ 14주차**: `디지털시계 p.752` Term Project
      - `hh:mm:ss` 중 시간 하나 출력하는 방법 알려주고 과제로 결과 제출하는 방법도 고려
    - __*PASS*__ | **15주차**: 실습 없음(기말고사)
