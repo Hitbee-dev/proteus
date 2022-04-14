@@ -21,6 +21,8 @@
      - ~~__*Clear | 1분반*__~~
      - ~~__*Clear | 2분반*__~~
    - **7주차**: `JK Flip-Flop` 구현
+     - ~~__*Clear | 1분반*__~~
+     - ~~__*Clear | 2분반*__~~
    - **8주차**: `D Flip-Flop`, `T Flip-Flop` 구현
    - **9주차**: `Master Slave Flip-Flop` 구현
    - __*PASS*__ | **10주차**: 실습 없음(중간고사)
